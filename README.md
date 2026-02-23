@@ -9,8 +9,6 @@ O projeto está disponível online em:
 https://movie-matchmaker.vercel.app
 ```
 
-![Movie Matchmaker Preview](https://via.placeholder.com/800x400/0a0a0f/ffffff?text=Movie+Matchmaker)
-
 ## ✨ Funcionalidades
 
 - 🎥 **Interface Cinematográfica** - Design escuro e elegante que remete à experiência de cinema
