@@ -193,5 +193,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **GitHub**: [https://github.com/seu-usuario/movie-matchmaker](https://github.com/graxyzr/movie-matchmaker)
 
 ---
-
-**Feito com 🎬 por Greice**
