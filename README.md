@@ -190,6 +190,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Live Demo**: [https://movie-matchmaker.vercel.app](https://movie-matchmaker.vercel.app)
 
-**GitHub**: [https://github.com/seu-usuario/movie-matchmaker](https://github.com/graxyzr/movie-matchmaker)
+**GitHub**: [https://github.com/graxyzr/movie-matchmaker](https://github.com/graxyzr/movie-matchmaker)
 
 ---
