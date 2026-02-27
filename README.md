@@ -40,7 +40,7 @@ https://movie-matchmaker.vercel.app
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/movie-matchmaker.git
+git clone https://github.com/graxyzr/movie-matchmaker.git
 cd movie-matchmaker
 ```
 
